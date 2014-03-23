@@ -1,4 +1,4 @@
-#TailSpinner App
+#TaleSpinner App
 **Startup Weekend Project** 
 
 This project was created for the Spartenburg Startup Weekend. Startup Weekend <http://startupweekend.org/> is basically a competition where the end goal is to create a viable startup. At the end of the weekend, each startup group then pitches to a group of judges (who are usually startup entrepreneurs themselves) for a chance to win (often receiving prizes designed to aid the startup idea). This was an exciting project to be a part of and was all the more rewarding as our team won the competition. 
